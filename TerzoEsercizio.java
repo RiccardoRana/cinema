@@ -19,6 +19,9 @@ public class TerzoEsercizio {
 		
 		if(giorno.equals("Mercoledì")) {
 			sconto = costo-(costo/10);
+		} else {
+		sconto = costo;
+		
 		}
 		
 		
